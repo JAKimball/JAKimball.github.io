@@ -1,7 +1,7 @@
 # Lab 01: Learning Markdown
 
-- [Original Welcome Page](SampleWelcome.html)
-- [Read 01: Learning Markdown](Read01)
+- [Original Welcome Page](SampleWelcome)
+- [Read 01: Learning Markdown](read01)
 
 
 
