@@ -1,4 +1,9 @@
+# Lab 01: Learning Markdown
+
 - [Original Welcome Page](SampleWelcome.html)
+- [Read 01: Learning Markdown](Read01)
+
+
 
 ## Welcome to GitHub Pages
 
