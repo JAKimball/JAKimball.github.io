@@ -3,7 +3,8 @@
 - [Original Welcome Page](SampleWelcome)
 - [Read 01: Learning Markdown](read01)
 
-
+The below is from given sample file...
+--------------
 
 ## Welcome to GitHub Pages
 
