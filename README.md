@@ -3,6 +3,7 @@
 - [Original Welcome Page](SampleWelcome)
 - [Read 01: Learning Markdown](read01)
 - [Lab 04](Lab4)
+- [Reading 07](Read7)
 
 The below is from given sample file...
 --------------
