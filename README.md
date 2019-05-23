@@ -2,6 +2,7 @@
 
 - [Original Welcome Page](SampleWelcome)
 - [Read 01: Learning Markdown](read01)
+- [Lab1 - The Growth Mindset (Learning Markdown)](Lab1)
 - [Lab 04](Lab4)
 
 The below is from given sample file...
