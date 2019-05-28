@@ -1,24 +1,31 @@
 # Read 01: Learning Markdown
 
-### Markdown is:
+## Markdown is
+
 - Shorthand for HTML used across many tools
 - Not WYSIWYG!
 - Easier to read than HTML
 - Helps to produce pages quickly and easily
 
-### Key markdown concepts:
+## Key markdown concepts
+
 - Lorem ipsum dolor sit
 
-### Quoting Code
+## Quoting Code
+
 - Use single backticks for code within a sentence.
-```
+
+```bash
 Type `ls -a` to get a list of all files in the current directory.
 ```
 
 Produces:
 Type `ls -a` to get a list of all files in the current directory.
 
-Here is a task list:
+## Task Lists
+
+### Here is a task list
+
 - [x] Write learning journal entry
 - [ ] Read [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
 - [x] Watch [GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY)
