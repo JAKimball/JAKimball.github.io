@@ -1,5 +1,12 @@
 # Lab 01: Learning Markdown
 
+<style>
+    img {
+        box-shadow: 9px 16px 20px 6px rgba(59, 59, 59, 0.589);
+        border-radius:  4ex;
+    }
+</Style>
+
 ![Me](images/IMG_20140428_181836_447_cropped.png)
 
 - [Original Welcome Page](SampleWelcome)
@@ -26,7 +33,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
