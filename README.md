@@ -2,8 +2,8 @@
 
 <style>
     img {
-        box-shadow: 9px 16px 20px 6px rgba(59, 59, 59, 0.589);
-        border-radius:  4ex;
+        box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.23);
+        border-radius:  1em;
     }
 </Style>
 
