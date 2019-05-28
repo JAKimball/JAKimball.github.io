@@ -1,5 +1,7 @@
 # Lab 01: Learning Markdown
 
+![Me](images/IMG_20140428_181836_447_cropped.png)
+
 - [Original Welcome Page](SampleWelcome)
 - [Read 01: Learning Markdown](read01)
 - [Lab1 - The Growth Mindset (Learning Markdown)](Lab1)
