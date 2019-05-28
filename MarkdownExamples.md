@@ -1,5 +1,5 @@
-The below is from given sample file...
---------------
+
+# The below is from given sample file...
 
 ## Welcome to GitHub Pages
 

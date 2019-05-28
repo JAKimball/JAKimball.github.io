@@ -6,8 +6,9 @@
 - [Lab 04](Lab4)
 - [Reading 07](Read7)
 
-The below is from given sample file...
---------------
+- [To Do in the week before 201](TODO)
+
+## The below is from given sample file...
 
 ## Welcome to GitHub Pages
 
