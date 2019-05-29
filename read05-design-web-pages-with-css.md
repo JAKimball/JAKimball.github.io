@@ -53,14 +53,14 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td><h3> Meaning </h3></td>
 		<td><h3> Example </h3></td>
 	</tr>
-	<tr>
-		<td><h4> Universl Selector </h4></td>
+	<!-- <tr>
+		<td><h4> Universal Selector </h4></td>
 		<td>Applies to all elements in the document</td>
 		<td><code> * {} </code></td>
 	</tr>
 	<tr>
 		<td><h4> Type Selector </h4></td>
-		<td>Mathes element names</td>
+		<td>Matches element names</td>
 		<td><code> h1, h2, h3 {} </code></td>
 	</tr>
 	<tr>
@@ -79,7 +79,7 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td><code> li>a {} </code></td>
 	</tr>
 	<tr>
-		<td><h4> Decendant Selector </h4></td>
+		<td><h4> Descendant Selector </h4></td>
 		<td>Matches element that is a direct child of another</td>
 		<td><code> p a {} </code></td>
 	</tr>
@@ -92,7 +92,7 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td><h4> General Sibling Selector </h4></td>
 		<td>Matches element that is a sibling of another but it does not have to be the directly preceding element</td>
 		<td><code> h1~p {} </code></td>
-	</tr>
+	</tr> -->
 </table>
 
 ## How CSS Rules Cascade
