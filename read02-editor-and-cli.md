@@ -43,6 +43,8 @@ The following are my notes from the excellent [Linux Tutorial](https://ryanstuto
 
 ## The Command Line
 
+Simply stated, a Unix shell or Command Line Interface (CLI) works like a Read-Evaluate-Print-Loop or **REPL**.
+
 ### How to open a terminal
 
 - Mac - Find the Terminal program under Applications -> Utilities.  Entering `command + space` and typing "Terminal" will get it quickly.

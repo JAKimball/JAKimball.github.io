@@ -1,5 +1,52 @@
 # Read 04: Structure web pages with HTML
 
+Content vs. Presentation
+HTML vs. CSS
+
+`<>` - Angle brackets
+
+## Nav and Unordered Lists
+
+```html
+<nav>
+	<ul>
+		<li> <a href> </li>
+		<li> <a href> </li>
+	</ul>
+</nav>
+```
+
+## Blocks of Text
+```html
+<p>Paragraph</p>
+<h1>Title</h1>
+<h2>Heading</h2>
+```
+
+## Images
+
+```html
+<img src="/…/pic.jpg">
+
+<tag attribute="value">  (self-closing tag)
+```
+
+## Strong and Emphasis
+
+```html
+<strong>strong text</strong>
+<em>emphasis</em>
+```
+## Tables
+
+```html
+<table>
+	<tr>
+		<td> … </td>
+	<tr>
+</table>
+```
+
 ## The process for creating a wireframe for a site
 
 - Who is the website for?

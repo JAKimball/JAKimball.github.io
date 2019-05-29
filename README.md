@@ -19,15 +19,18 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 - [Read 02: The Coder's Computer](read02-editor-and-cli)
 - [Read 03: Revisions and the Cloud](read03-git)
 - [Read 04: Structure web pages with HTML](read04-structure-web-pages-with-html)
-- [Reading 07](Read7)
+- [Read 05: Design web pages with CSS](read05-design-web-pages-with-css)
+- [Read 06: Activate web pages with JavaScript](read06-activate-web-pages-with-javascript)
+- [Read 07: Programming with JavaScript](Read7)
 - [Read 08: Computer Architecture & Logic](read08)
 
 ## Labs
 
 - [Lab1 - The Growth Mindset (Learning Markdown)](Lab1)
-- [Lab 04](Lab4)
+- [Labs 4 - 8](Lab4)
 
 ## Other
 
+- [Ideas to Streamline the Assignment Completion Workflow](workflow-ideas)
 - [To Do in the week before 201](TODO)
 - [Original Welcome Page](SampleWelcome)
