@@ -50,8 +50,8 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 <table>
 	<tr>
 		<td><h3> Selector </h3></td>
-		<td><h3> Meaning </h4></td>
-		<td><h3> Example </h4></td>
+		<td><h3> Meaning </h3></td>
+		<td><h3> Example </h3></td>
 	</tr>
 	<tr>
 		<td><h4> Universl Selector </h4></td>
