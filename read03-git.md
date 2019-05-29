@@ -133,6 +133,4 @@ remote3 https://github.com/remote3/example (fetch)
 remote3 https://github.com/remote3/example (push)
 ```
 
-
-
 [Return Home](/)

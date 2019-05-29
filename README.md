@@ -19,6 +19,7 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 - [Read 02: The Coder's Computer](read02-editor-and-cli)
 - [Read 03: Revisions and the Cloud](read03-git)
 - [Reading 07](Read7)
+- [# Read 08: Computer Architecture & Logic](read08)
 
 ## Labs
 
