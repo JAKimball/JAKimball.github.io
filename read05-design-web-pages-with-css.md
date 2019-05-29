@@ -53,7 +53,7 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td><h3> Meaning </h3></td>
 		<td><h3> Example </h3></td>
 	</tr>
-	<!-- <tr>
+	<tr>
 		<td><h4> Universal Selector </h4></td>
 		<td>Applies to all elements in the document</td>
 		<td><code> * {} </code></td>
@@ -63,7 +63,7 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td>Matches element names</td>
 		<td><code> h1, h2, h3 {} </code></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td><h4> Class Selector </h4></td>
 		<td>Matches elements with matching class attributes</td>
 		<td><p><code> .note {} </code></p><p><code> p.note {}</p></td>
