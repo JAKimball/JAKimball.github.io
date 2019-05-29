@@ -1,4 +1,4 @@
-# To do This Week After Assignments are Complete
+# To Do This Week After Assignments are Complete
 
 Have a learning related idea but no time to pursue it now?  Put it on this list...
 
