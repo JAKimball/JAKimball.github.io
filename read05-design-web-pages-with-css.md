@@ -63,12 +63,13 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td>Matches element names</td>
 		<td><code> h1, h2, h3 {} </code></td>
 	</tr>
-	<!-- <tr>
+    <tr>
 		<td><h4> Class Selector </h4></td>
 		<td>Matches elements with matching class attributes</td>
 		<td><p><code> .note {} </code></p><p><code> p.note {}</p></td>
 	</tr>
-	<tr>
+	<!--
+   	<tr>
 		<td><h4> ID Selector </h4></td>
 		<td>Matches by id attribute</td>
 		<td><code> #intro {} </code></td>
