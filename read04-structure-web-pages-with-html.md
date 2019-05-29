@@ -1,11 +1,12 @@
 # Read 04: Structure web pages with HTML
 
-Content vs. Presentation
-HTML vs. CSS
+## Content vs. Presentation 
+- HTML vs. CSS
 
-`<>` - Angle brackets
 
 ## Nav and Unordered Lists
+
+`<>` - Angle brackets
 
 ```html
 <nav>
@@ -43,7 +44,7 @@ HTML vs. CSS
 <table>
 	<tr>
 		<td> … </td>
-	<tr>
+	</tr>
 </table>
 ```
 

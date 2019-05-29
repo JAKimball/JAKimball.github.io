@@ -1,6 +1,6 @@
 # Learning Journal
 
-<style>
+<style type="text/css">
     img {
         box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.23);
         border-radius:  1em;
@@ -33,4 +33,4 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 
 - [Ideas to Streamline the Assignment Completion Workflow](workflow-ideas)
 - [To Do in the week before 201](TODO)
-- [Original Welcome Page](SampleWelcome)
+- [Original GitHub Pages Welcome Page](SampleWelcome)
