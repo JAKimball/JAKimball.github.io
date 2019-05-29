@@ -18,8 +18,9 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 - [Read 01: Learning Markdown](read01)
 - [Read 02: The Coder's Computer](read02-editor-and-cli)
 - [Read 03: Revisions and the Cloud](read03-git)
+- [Read 04: Structure web pages with HTML](read04-structure-web-pages-with-html)
 - [Reading 07](Read7)
-- [# Read 08: Computer Architecture & Logic](read08)
+- [Read 08: Computer Architecture & Logic](read08)
 
 ## Labs
 
