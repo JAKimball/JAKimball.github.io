@@ -66,9 +66,8 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
     <tr>
 		<td><h4> Class Selector </h4></td>
 		<td>Matches elements with matching class attributes</td>
-		<td><p><code> .note {} </code></p><p><code> p.note {}</p></td>
+		<td><p><code> .note {} </code></p><p><code> p.note {}</code></p></td>
 	</tr>
-	<!--
    	<tr>
 		<td><h4> ID Selector </h4></td>
 		<td>Matches by id attribute</td>
@@ -93,7 +92,7 @@ CSS rules can also be placed within a `<style>` element, usually in the `<head>`
 		<td><h4> General Sibling Selector </h4></td>
 		<td>Matches element that is a sibling of another but it does not have to be the directly preceding element</td>
 		<td><code> h1~p {} </code></td>
-	</tr> -->
+	</tr>
 </table>
 
 ## How CSS Rules Cascade
