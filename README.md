@@ -13,7 +13,7 @@
 
 <style type="text/css">
     img {
-        box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.23),  1em 2em 2em 0em rgba(0, 0, 0, 0.23);
+        box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.2),  1em 2em 2em 0em rgba(0, 0, 0, 0.3);
         border-radius:  1em;
     }
 
