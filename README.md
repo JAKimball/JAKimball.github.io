@@ -1,10 +1,23 @@
 # Learning Journal
 
+<head>
+  <meta name="theme-color" content="#A4A1A6">
+  <!-- <meta name="theme-color" content="#8C5627"> -->
+  <!--meta name="theme-color" content="#f60"-->
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather|Alegreya|Roboto+Condensed|Permanent+Marker" rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=3">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=3">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=3">
+  <link rel="manifest" href="/site.webmanifest">
+</head>
+
 <style type="text/css">
     img {
         box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.23);
         border-radius:  1em;
     }
+
+    h2 { font-family: Permanent+Marker, Inherit; }
 </Style>
 
 ![Me](images/IMG_20140428_181836_447_cropped.png)

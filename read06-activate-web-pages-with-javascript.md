@@ -24,7 +24,9 @@ The `<script>` element is used to load the JavaScript file into the page.
 ### Placing the script in the page
 
 ```html
-<script>document.write('<h3>Welcome!</h3>');</script>
+<script>
+  document.write("<h3>Welcome!</h3>");
+</script>
 ```
 
 ## Javascript runs where it is found in the HTML
@@ -77,11 +79,11 @@ quantity = 6;
 
 ### Rules for naming variables
 
-1. The name must begin with a letter, dollar sign ($), or an underscore (_).  It must not start with a number.
-2. It can contain letters, numbers, $, or _.  It must not include a dash (-) or a period (.).
+1. The name must begin with a letter, dollar sign (\$), or an underscore (\_). It must not start with a number.
+2. It can contain letters, numbers, \$, or \_. It must not include a dash (-) or a period (.).
 3. It can not be a keyword or reserved word.
 4. All variables are case sensitive.
 5. Use a name the describes to information the variable stores.
-6. If your name is made up of more than one word, use the camel case convention - a capital letter for the first letter of eavery word *after* the first.
+6. If your name is made up of more than one word, use the camel case convention - a capital letter for the first letter of eavery word _after_ the first.
 
 [Return Home](/)
