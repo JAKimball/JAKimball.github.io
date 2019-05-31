@@ -22,7 +22,7 @@ Have a learning related idea but no time to pursue it now?  Put it on this list.
 ## Done
 
 - Fix the `.profile` file...
-  - Fix the colors
+  - Fix the colors ([ANSI Escape Codes & Colors](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors))
   - Remove the automatic `cd` to the working directory since this interferes with Windows Explorer context menu `(Shift-Right-Click on folder - "Open Linux shell here")`
 
 [Return Home](/)
