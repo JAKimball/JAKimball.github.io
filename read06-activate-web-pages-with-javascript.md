@@ -1,5 +1,7 @@
 # Read 06: Activate web pages with JavaScript
 
+## Layers
+
 - HTML: the content layer
   - .html files
 - CSS: the Presentation layer
@@ -11,7 +13,7 @@ These layers form the basis of the progression enhancement approach to web page 
 
 1. HTML only
 2. HTML + CSS
-3. HTML + CSS + JAVASCRIPT
+3. HTML + CSS + JavaScript
 
 The `<script>` element is used to load the JavaScript file into the page.
 
@@ -19,7 +21,7 @@ The `<script>` element is used to load the JavaScript file into the page.
 <script src="js/add-content.js"></script>
 ```
 
-## Placing the script in the page
+### Placing the script in the page
 
 ```html
 <script>document.write('<h3>Welcome!</h3>');</script>
@@ -29,9 +31,9 @@ The `<script>` element is used to load the JavaScript file into the page.
 
 Moving the script will affect where the `document.write();` method will write on the page.
 
-# Basic JavaScript Instuctions
+## Basic JavaScript Instructions
 
-## Statements
+### Statements
 
 Individual instructions or steps are known as statements.
 
@@ -39,12 +41,12 @@ Statements can be organized into code blocks.
 
 Javascript is case sensitive.
 
-## Comments
+### Comments
 
 - multiline comments begin with `/*` and end with `*/`
 - single line comments begin with `//` and the javascript interpreter will ignore the rest of the line.
 
-## Variables
+### Variables
 
 Variables store temporary information for the script to operate.
 
@@ -60,20 +62,20 @@ Variables are assigned with an assignment operator.
 quantity = 6;
 ```
 
-## Data Types
+### Data Types
 
-- Numberic
+- Numeric
 - String
 - Boolean
 
-Javascript also has:
+#### Javascript also has these additional data types
 
 - arrays
 - objects
 - undefined
 - null
 
-## Rules for naming variables
+### Rules for naming variables
 
 1. The name must begin with a letter, dollar sign ($), or an underscore (_).  It must not start with a number.
 2. It can contain letters, numbers, $, or _.  It must not include a dash (-) or a period (.).
@@ -81,7 +83,5 @@ Javascript also has:
 4. All variables are case sensitive.
 5. Use a name the describes to information the variable stores.
 6. If your name is made up of more than one word, use the camel case convention - a capital letter for the first letter of eavery word *after* the first.
-
-
 
 [Return Home](/)
