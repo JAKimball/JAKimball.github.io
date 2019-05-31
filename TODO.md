@@ -1,3 +1,13 @@
+<style type="text/css">
+    img {
+        box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.35),  1em 2em 2em 0em rgba(0, 0, 0, 0.1);
+        border-radius:  1em;
+    }
+
+    @import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+    h1,h2 { font-family: 'Permanent Marker'; }
+</Style>
+
 # To Do This Week After Assignments are Complete
 
 Have a learning related idea but no time to pursue it now?  Put it on this list...
