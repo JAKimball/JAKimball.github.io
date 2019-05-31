@@ -1,11 +1,13 @@
 <style type="text/css">
-    img {
-        box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.35),  1em 2em 2em 0em rgba(0, 0, 0, 0.1);
-        border-radius:  1em;
-    }
+  
+  @import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
 
-    @import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
-    h1,h2 { font-family: 'Permanent Marker'; }
+  h1,h2 { font-family: 'Permanent Marker'; }
+
+  img {
+    box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.35),  1em 2em 2em 0em rgba(0, 0, 0, 0.1);
+    border-radius:  1em;
+    }
 </Style>
 
 # To Do This Week After Assignments are Complete
