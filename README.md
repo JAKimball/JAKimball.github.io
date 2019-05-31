@@ -17,7 +17,7 @@
         border-radius:  1em;
     }
 
-    h2 { font-family: 'Permanent Marker', Inherit; }
+    h1,h2 { font-family: 'Permanent Marker'; }
 </Style>
 
 ![Me](images/IMG_20140428_181836_447_cropped.png)
