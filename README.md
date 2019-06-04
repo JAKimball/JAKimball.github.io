@@ -12,7 +12,7 @@
   <style type="text/css">
     @import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
 
-    h1,h2 { font-family: 'Permanent Marker'; }
+    h1,h2,h3 { font-family: 'Permanent Marker'; }
 
     img {
       box-shadow: 1em 2em 6em 0em rgba(0, 0, 0, 0.35),  1em 2em 2em 0em rgba(0, 0, 0, 0.1);
@@ -39,10 +39,16 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 - [Read 07: Programming with JavaScript](Read7)
 - [Read 08: Computer Architecture & Logic](read08)
 
-## Labs
+## Labs / Projects
+
+### CF 102 Course
 
 - [Lab1 - The Growth Mindset (Learning Markdown)](Lab1)
 - [Labs 4 - 8](Lab4)
+
+### CF 201 Course
+
+- [About me](about-me)
 
 ## Other
 
