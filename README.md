@@ -49,3 +49,4 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 - [Ideas to Streamline the Assignment Completion Workflow](workflow-ideas)
 - [To Do in the week before 201](TODO)
 - [Original GitHub Pages Welcome Page](SampleWelcome)
+- [Prompt Git Status Codes](prompt-git-status-codes)
