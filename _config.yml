@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+include: [".well-known"]
+
 kramdown:
   input: GFM
   
