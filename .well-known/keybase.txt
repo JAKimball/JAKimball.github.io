@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jonkimball
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jakimball.github.io
+  * I am jonkimball (https://keybase.io/jonkimball) on keybase.
+  * I have a public key ASDC0gkawVthCkGKbe5tGd9p_v5sGNOqOqAqMn554r3TlQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c2d2091ac15b610a418a6dee6d19df69fefe6c18d3aa3aa02a327e79e2bdd3950a",
+      "host": "keybase.io",
+      "kid": "0120c2d2091ac15b610a418a6dee6d19df69fefe6c18d3aa3aa02a327e79e2bdd3950a",
+      "uid": "503d5a9ac0754f895409bc58e7571219",
+      "username": "jonkimball"
+    },
+    "merkle_root": {
+      "ctime": 1559703446,
+      "hash": "d698a9079e8c95d8c426633ac30a39283da2c91e3d48a3b948773cd1dc7a78a63c56af2eb328b0cf78ef5020b2d3fae1a0736cdb4d16761cfbcb475e49cc12aa",
+      "hash_meta": "b53bda21fe84879675fece4a2dc67ef09734a603d7bb76ff09206bbd7573b8fd",
+      "seqno": 5509780
+    },
+    "service": {
+      "entropy": "8VcGUIjFi0RxHdWtAGOLxHWW",
+      "hostname": "jakimball.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559703535,
+  "expire_in": 504576000,
+  "prev": "8bd30371183c239612e611a18f428d133384c2914dc5c88254ba67f576b05cff",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwtIJGsFbYQpBim3ubRnfaf7+bBjTqjqgKjJ+eeK905UKp3BheWxvYWTESpcCFMQgi9MDcRg8I5YS5hGhj0KNEzOEwpFNxciCVLpn9XawXP/EIJ1MQyR1/Dl2QxljkS+wca8Lw0U+32SJFAZexFqfTi9oAgHCo3NpZ8RAhNvHh7Zaf9hff+ppN+jWJ/nKSlnJZpvNrDQTp1Ostjg77HzqqJYsj6EXyazTyGo0ife0rpvrOISKYIMgLgRyD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICeGm8WgQe7345gOdz60cvT2uaADw1R/vO10x4AP8DWZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonkimball
+
+==================================================================
