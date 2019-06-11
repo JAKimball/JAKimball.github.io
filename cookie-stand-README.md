@@ -19,29 +19,29 @@
   - simulateDay() - Loop thru hours and calculate number of cookies per hour for each hour and store in array property.
     - `hours: []`
     - `cookieCountsForHours: []`
-  - calculateTotal - Iterate through cookieCountsForHours array and return the total for the location
-  - renderTable
-    - Find the HTML element to accept the table
-    - Create the `<table>` element
-    - Call a prototype method (`createReportHeader`) with the following steps to create the table header
-      - Create the `<thead>` element
-      - Create the `<tr>` element
-      - Create the `<th>` header cell elements and insert them into the header `<tr>`
-      - Insert (appendChild) the header `<tr>` into the `<thead>`
-    - Insert the `<thead>` element into the previously created `<table>` element
-    - Call a prototype method (`createReportBody`) with the following steps to create the table body
-      - Create the `<tbody>` element
-      - For each location do the following
-        - Create the `<tr>` element to accept the row of results for the location
-        - Create and insert into the `<tr>` a `<td>` for the location name
-        - Loop thru hours and Create the `<td>` elements for each for the location of the row and append them to the `<tr>`
-        - Create the `<td>` with the location total (from calculateTotal) and append to the `<tr>`
-        - Insert the completed `<tr>` for the location into the `<tbody>` element
-    - Insert the `<tbody>` element into the previously created `<table>` element
-    - Call a prototype method (`createReportFooter`) with the following steps to create the table footer
-      - With a nested loop, iterate thru all locations and hours to add data to the `totalByHour` object
-      - Create the `<tfoot>` element
-      - Create the `<tr>` element
-      - Loop thru hours and Create the `<td>` elements for each hour with data reported from the `totalByHour` object and append them to the `<tr>`
-      - Append the `<tr>` to the `<tfoot>` element
-    - Append the `<tfoot>` element to the `<table>` element
+  - `calculateTotal()` - Iterate through cookieCountsForHours array and return the total for the location
+- Implement a global `renderReportTable()` function which does the folllowing
+  - Find the HTML element to accept the table
+  - Create the `<table>` element
+  - Call a prototype method (`createReportHeader`) with the following steps to create the table header
+    - Create the `<thead>` element
+    - Create the `<tr>` element
+    - Create the `<th>` header cell elements and insert them into the header `<tr>`
+    - Insert (appendChild) the header `<tr>` into the `<thead>`
+  - Insert the `<thead>` element into the previously created `<table>` element
+  - Call a prototype method (`createReportBody`) with the following steps to create the table body
+    - Create the `<tbody>` element
+    - For each location do the following
+      - Create the `<tr>` element to accept the row of results for the location
+      - Create and insert into the `<tr>` a `<td>` for the location name
+      - Loop thru hours and Create the `<td>` elements for each for the location of the row and append them to the `<tr>`
+      - Create the `<td>` with the location total (from calculateTotal) and append to the `<tr>`
+      - Insert the completed `<tr>` for the location into the `<tbody>` element
+  - Insert the `<tbody>` element into the previously created `<table>` element
+  - Call a prototype method (`createReportFooter`) with the following steps to create the table footer
+    - With a nested loop, iterate thru all locations and hours to add data to the `totalByHour` object
+    - Create the `<tfoot>` element
+    - Create the `<tr>` element
+    - Loop thru hours and Create the `<td>` elements for each hour with data reported from the `totalByHour` object and append them to the `<tr>`
+    - Append the `<tr>` to the `<tfoot>` element
+  - Append the `<tfoot>` element to the `<table>` element
