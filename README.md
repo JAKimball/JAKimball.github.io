@@ -49,6 +49,8 @@ Hello! My name is Jonathan Kimball and this is my learning journal for Code Fell
 ### CF 201 Course
 
 - [About me](about-me)
+- [cookie-stand README.md](cookie-stand-README.md)
+- [Cookie Stand](cookie-stand)
 
 ## Other
 
