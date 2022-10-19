@@ -22,7 +22,7 @@
   </style>
 </head>
 
-![Me](images/IMG_20140428_181836_447_cropped.png)
+![Me](images/head-shot.png)
 
 Welcome to my learning journal for Code Fellows 102d1! :notebook:
 
